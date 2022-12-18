@@ -1,6 +1,6 @@
 FROM alpine:edge
 
-ARG AUUID="bb316c43-f072-4b9e-828b-515cac9c592c"
+ARG AUUID="30ff148d-648e-4da2-b850-e50f443fabcf"
 ARG CADDYIndexPage="https://github.com/ripienaar/free-for-dev/archive/master.zip"
 ARG ParameterSSENCYPT="chacha20-ietf-poly1305"
 ARG PORT=8080
